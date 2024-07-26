@@ -16,11 +16,11 @@ A simple weather application that fetches weather information for a given city u
 - JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
+
 . **Clone the Repository**
 
    ```bash
    git clone https://github.com/realahmetabdullahh/weather-app
-
-   ** Dont Forget**
-
+## Dont Forget ##
 const ApiKey = "YOUR_API_KEY_HERE"; // Replace with your OpenWeatherMap API key
+
