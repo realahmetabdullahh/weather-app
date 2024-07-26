@@ -16,7 +16,7 @@ A simple weather application that fetches weather information for a given city u
 - JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
-# Dont Forget 
+## Dont Forget 
 
 const ApiKey = "YOUR_API_KEY_HERE"; // Replace with your OpenWeatherMap API key
 
